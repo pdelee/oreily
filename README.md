@@ -7,3 +7,5 @@
     - `git commit -m "MESSAGE": commit without opening editor
 - `git log`: show your commit history
     - `git log --oneline`: Shows only the latest info
+- `git diff`: Shows the difference 
+- `git diff --staged`: Shows changes to the file in the staged area
